@@ -33,6 +33,7 @@
 
    <h1> Thank you for choosing us in your learning path.</h1>
    <i> Happy learning </i>
+   <p> Keep getting your hands dirty</p>
 
   
 </form>
